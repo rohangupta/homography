@@ -1,12 +1,13 @@
 # Image Features and Homography
 
-
 #### 1.	Keypoints using SIFT   
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rohangupta/homography/master/task1_sift1.jpg"> <img src="https://raw.githubusercontent.com/rohangupta/homography/master/task1_sift2.jpg">
+  <img src="https://raw.githubusercontent.com/rohangupta/homography/master/task1_sift1.jpg"> 
+  <img src="https://raw.githubusercontent.com/rohangupta/homography/master/task1_sift2.jpg"><br>
+  <p align="center"> Keypoints for mountain1.jpg and mountain2.jpg using SIFT </p>
 </p>
-<center> Keypoints for mountain1.jpg and mountain2.jpg using SIFT </center>
+<!--<center> Keypoints for mountain1.jpg and mountain2.jpg using SIFT </center> -->
 
 #### 2.	Good matches
 
