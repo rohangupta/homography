@@ -3,14 +3,16 @@
 
 #### 1.	Keypoints using SIFT   
 
-<center>![alt text](https://raw.githubusercontent.com/rohangupta/homography/master/task1_sift1.jpg) ![alt text](https://raw.githubusercontent.com/rohangupta/homography/master/task1_sift2.jpg)
-</center>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rohangupta/homography/master/task1_sift1.jpg"> <img src="https://raw.githubusercontent.com/rohangupta/homography/master/task1_sift2.jpg">
+</p>
 <center> Keypoints for mountain1.jpg and mountain2.jpg using SIFT </center>
 
 #### 2.	Good matches
 
-<center>![alt text](https://raw.githubusercontent.com/rohangupta/homography/master/task1_matches_knn.jpg)
-</center>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rohangupta/homography/master/task1_matches_knn.jpg">
+</p>
 <center> Good matches for mountain1.jpg and mountain2.jpg </center>
 
 #### 3.	Homography Matrix
@@ -23,14 +25,14 @@
 
 #### 4.	Matches using inliers
  
-<center>
-![alt text](https://raw.githubusercontent.com/rohangupta/homography/master/task1_matches.jpg)
-</center>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rohangupta/homography/master/task1_matches.jpg">
+</p>
 <center> Random matches for mountain1.jpg and mountain2.jpg using inliers </center>
 
 #### 5.	Warping
 
-<center>
-![alt text](https://raw.githubusercontent.com/rohangupta/homography/master/task1_pano.jpg)
-</center>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rohangupta/homography/master/task1_pano.jpg">
+</p>
 <center> Mountain1.jpg warped to the mountain2.jpg using homography matrix </center>
